@@ -24,7 +24,7 @@ This project is a Node.js application built with NestJS that integrates Facebook
 1. Create a Facebook App from the [Facebook Developers](https://developers.facebook.com/) website.
 2. Refer to the video link provided below for detailed instructions on setting up the Facebook App.
 
-### Getting Started
+### Project Setup
 
 1. Clone this repository.
 2. Navigate to the cloned project directory in your terminal.
@@ -39,7 +39,7 @@ This project is a Node.js application built with NestJS that integrates Facebook
    npm install
    ```
 
-### Starting Server and ngrok tunneling
+### Starting Server and ngrok tunneling Setup
 
 1. Start the server using command:
 
@@ -57,7 +57,7 @@ ngrok http PORT
 
 - Replace `PORT` with the port number specified in your `.env` file.
 
-### Webhook Endpoints
+## Webhook Endpoints
 
 - `/facebook/webhook`:
   - GET request: Verify the webhook with Facebook.
