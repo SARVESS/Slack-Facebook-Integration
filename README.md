@@ -1,6 +1,4 @@
-# Project Title
-
-## Facebook Messenger To Slack Integration -
+# Facebook Messenger To Slack Integration -
 
 This project is a Node.js application built with NestJS that integrates Facebook Messenger with Slack. It listens for messages sent to a Facebook Messenger page via webhook and forwards them to a Slack channel. Additionally, it provides a simple verification mechanism for Facebook webhook subscriptions.
 
