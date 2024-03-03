@@ -27,7 +27,7 @@ This project is a Node.js application built with NestJS that integrates Facebook
 1. Clone this repository.
 2. Navigate to the cloned project directory in your terminal.
 3. Open the project in your preferred editor (e.g., VSCode).
-4. Create a `.env` file in the project root and define the following environment variables:
+4. Modify the `.env` file in the project root which include the keys:
    - `FACEBOOK_WEBHOOK_VERIFY_TOKEN`: Use any token of your choice for webhook verification (Explained in video below).
    - `FACEBOOK_PAGE_ACCESS_TOKEN`: Your Facebook page access token (Explained in video below).
    - `SLACK_MESSENGER_WEBHOOK`: Your Slack webhook URL (Explained in video below).
