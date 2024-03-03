@@ -84,4 +84,4 @@ ngrok http PORT
 
 For a detailed walkthrough on setting up the Slack and Facebook apps, running the project, configuring it and to see demo please refer to the video link provided below.
 
-`xxxxxx`
+[Video Link](https://drive.google.com/file/d/1Gmy0YjgtdI5QEKJn9NurDpy1OckP26u2/view?usp=sharing)
